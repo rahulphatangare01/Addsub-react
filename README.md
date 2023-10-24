@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+this is simple example of creating Addition & Subtraction in react 
+its simple learning example of react.
 
 In the project directory, you can run:
 
